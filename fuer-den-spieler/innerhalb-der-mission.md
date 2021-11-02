@@ -10,6 +10,6 @@ Die Regeln eurer eigenen Communitys bezüglich des respektvollen Umgangs gelten 
 
 Die Funksyntax im **Führungsfunk** muss aufgrund der Missionsgröße und zum besseren Ablauf beachtet werden. Verwendet werden dort die **allgemeinen Standards**. (Stichworte: Kommen, Ende und keine Unterbrechungen der Funksprüche, wenn nicht nötig)
 
-Innerhalb der **eigenen Gruppe** darf **frei **über den Funkverkehr entschieden werden.
+Innerhalb der **eigenen Gruppe** darf **frei** über den Funkverkehr entschieden werden.
 
-**JTAC und Piloten**, falls vorhanden, sollten sich **vor **einer **Mission absprechen**, um eventuelle Konventionen festzulegen.
+**JTAC und Piloten**, falls vorhanden, sollten sich **vor** einer **Mission absprechen**, um eventuelle Konventionen festzulegen.

@@ -10,9 +10,9 @@
 ## Nachbesprechung
 
 * **Freiwillige Anwesenheit**.
-* **Teamleads **werden gebeten, bei aufgefallenen Dingen, diese **nach der Mission** in der Runde anzusprechen.
+* **Teamleads** werden gebeten, bei aufgefallenen Dingen, diese **nach der Mission** in der Runde anzusprechen.
 * Jeder Mitspieler, der möchte, kann dableiben und nach den Teamleads Feedback geben.
-* Zusätzlich wird **jedem **Mitspieler **ermöglicht Feedback schriftlich** abzugeben.
+* Zusätzlich wird **jedem** Mitspieler **ermöglicht Feedback schriftlich** abzugeben.
 
 ## Techcheck
 
@@ -32,4 +32,4 @@ Siehe auch [#aufteilung-der-slots](../missionsbau/slotliste.md#aufteilung-der-sl
 [slotliste.md](../missionsbau/slotliste.md)
 {% endcontent-ref %}
 
-Das **Auffüllen **der zugeordneten Slots bleibt **jeder Community** selbst **überlassen**. Dies beinhaltet auch die Möglichkeit leere Slots durch Andere besetzen zu lassen. **Verspätungen **werden **durch die **Systeme der **einzelnen Communitys geregelt**.
+Das Auffüllen der zugeordneten Slots bleibt **jeder Community** selbst **überlassen**. Dies beinhaltet auch die Möglichkeit leere Slots durch Andere besetzen zu lassen. **Verspätungen** werden **durch die** Systeme der **einzelnen Communitys geregelt**.
