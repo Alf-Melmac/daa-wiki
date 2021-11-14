@@ -1,4 +1,4 @@
-# Modpack
+# Modset
 
 ## Download
 
@@ -8,7 +8,7 @@
 
 Das [Standard Modset](https://www.deutsche-arma-allianz.de/#mods) enthält eine Grundmenge an Mods, die in jeder Mission verwendet werden können.
 
-_Siehe auch _[daa-mod.md](../entwicklung/daa-mod.md "mention")__
+_Siehe auch _[daa-mod.md](../entwicklung/daa-mod.md "mention")
 
 ## Zusätze
 
