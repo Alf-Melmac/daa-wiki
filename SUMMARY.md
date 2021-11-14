@@ -9,9 +9,8 @@
 ## Missionsbau
 
 * [Slotliste](missionsbau/slotliste.md)
-* [Modset](missionsbau/modpack.md)
+* [Modpack](missionsbau/modpack.md)
 * [Missionsaufbau](missionsbau/missionsaufbau.md)
-* [Server Setup](missionsbau/server-setup.md)
 
 ## Organisation
 

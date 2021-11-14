@@ -20,6 +20,10 @@ Immer **eine Woche vor** der **Mission**. Kann auch auf Anfrage geschehen, sodas
 
 Der Techcheck, ausgenommen der eigentlich Mission, muss identisch zum eigentlichen Event-Setup sein (Key Checks an, gleiche Settings, etc.).
 
+## Server Setup
+
+Die Standard-Einstellungen werden Teils durch die DAA Mod (z.B. Schwierigkeit) gesetzt, andererseits durch die Standard-Konfigurationen zu finden [hier](https://events.deutsche-arma-allianz.de/cloud).
+
 ## Slotten
 
 Siehe auch [#aufteilung-der-slots](../missionsbau/slotliste.md#aufteilung-der-slots "mention")
