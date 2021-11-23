@@ -17,3 +17,11 @@ Zum Standard-Modset dürft ihr **3GB zusätzlich**e Modifikationen ergänzen.
 {% hint style="info" %}
 Ausgenommen von dieser Regelung sind Karten
 {% endhint %}
+
+### Blacklist
+
+Durch Tests und Erfahrungen haben wir einige Modifikationen entdeckt, die aus verschiedenen Gründen nicht verwendet werden können.
+
+| Mod                                                                                                                         | Begründung                                                               |
+| --------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
+| [No More Aircraft Bouncing](https://steamcommunity.com/sharedfiles/filedetails/?id=1770265310\&searchtext=No+more+Aircraft) | Zwingt bei aufschlagenden explodierten Flugzeugen den Server in die Knie |
