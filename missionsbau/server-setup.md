@@ -2,6 +2,18 @@
 
 Die Standard-Einstellungen werden Teils durch die DAA Mod (z.B. Schwierigkeit) gesetzt, andererseits durch die Standard-Konfigurationen zu finden [hier](https://events.deutsche-arma-allianz.de/cloud).
 
+## Streamator
+
+Für die DAA Streams auf YouTube und Twitch benötigen wir in jeder Mission [zwei virtuelle Zuschauerplätze](https://wiki.tacticalteam.de/de/TTT-QM/Skriptsammlung#streamator). Auf dem Server muss CLib und [Streamator](https://github.com/TaktiCool/Streamator) installiert sein.
+
+{% file src="../.gitbook/assets/CLib.zip" %}
+[https://github.com/TaktiCool/CLib](https://github.com/TaktiCool/CLib)
+{% endfile %}
+
+{% file src="../.gitbook/assets/Streamator.zip" %}
+[https://github.com/TaktiCool/Streamator](https://github.com/TaktiCool/Streamator)
+{% endfile %}
+
 ## Clientseitige Mods
 
 Zusätzlich zu dem Standard  und dem Zusatz der jeweiligen Mission sind folgende clientseitige Modifikationen erlaubt und dem Keycheck hinzuzufügen:
