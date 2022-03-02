@@ -9,7 +9,7 @@
 | Uhrzeit                    | Agenda                                                                                                                                     |
 | -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | 8 Wochen vor der Mission   | Missionsbauender Clan wird gefunden.                                                                                                       |
-| 8-6 Wochen vor der Mission | Teilanhmewillige Clans sagen zu.                                                                                                           |
+| 8-6 Wochen vor der Mission | Teilnahmewillige Clans sagen zu.                                                                                                           |
 | 6-4 Wochen vor Mission     | Missionsbauer legt Missionsidee und auf Teilnehmeranzahl angepasste Slotliste dar. Teilnehmer slotten sich.                                |
 | 4-1 Wochen vor Mission     | Führung gibt ihre Planung im Eventkanal bekannt. Missionsbauer stellt die Mission der Qualitätsprüfung bereit.                             |
 | Eventtag 19:00 - 19:30 Uhr | Fürhungbesprechung. Anwesenheit von Gruppen-, Zug- und Kompanieführung gefordert, wenn nicht anders durch die Kompanieführung organisiert. |
