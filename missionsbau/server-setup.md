@@ -23,7 +23,7 @@ steamcmd.exe +login %STEAMLOGIN% +force_install_dir %A3serverPath% +app_update 2
 ```
 
 Durch die Ausführung dieses Befehls wird im angegebenen Ordner die `arma3server_x64` Ausführungsdatei mit dem aktuellen Performance Build ersetzt.
-Es gibt auch die möglichkeit die Dateien manuell über das alternative [Google Drive](https://drive.google.com/drive/folders/15p9j7C2nHUt6NoVfChX4YFuqzFXzblJh) Angebot herunterzuladen.
+Es gibt auch die Möglichkeit, die Dateien manuell über das alternative [Google Drive](https://drive.google.com/drive/folders/15p9j7C2nHUt6NoVfChX4YFuqzFXzblJh) Angebot herunterzuladen.
 
 Die zusätzliche `arma3serverprofiling_x64` Ausführungsdatei enthält mehr Logausgaben für die Auswertung von BI. Diese nur nach Absprache verwenden, da teils ressourcenintensive Berechnungen ausgeführt werden.
 
@@ -72,34 +72,34 @@ class sockets {
 
 {% code title="server.cfg" %}
 ```editorconfig
-// Die Hier aufgelisteten einstellungen sind von DAA erzwungen. Die übrigen Einstellungen können frei gewählt werden.
+// Die hier aufgelisteten Einstellungen sind von DAA erzwungen. Die übrigen Einstellungen können frei gewählt werden.
 
 // SECURITY
 admins[]			= {};
-BattlEye			= 0;	// Wir deaktivieren BattlEye da es zu viel Performancelast erzeugt und wir es nicht benötigen
-verifySignatures		= 2;	// Signaturverifikation aktivieren damit Spieler keine falschen Mods mitladen können.
-kickDuplicate			= 1;	// Kicke spieler mit der selben SteamID, sollte ein Spieler doppelt connecten.
-allowedFilePatching		= 1;	// Erlaube FilePatching nur für Headless Clients. Könnte auch auf 0 stehen um es komplett zu deaktivieren, dies hätte aber keine vorteile.
+BattlEye			= 0;	// Wir deaktivieren BattlEye, da es zu viel Performancelast erzeugt und wir es nicht benötigen
+verifySignatures		= 2;	// Signaturverifikation aktivieren, damit Spieler keine falschen Mods mitladen können
+kickDuplicate			= 1;	// Kicke Spieler mit der selben SteamID, sollte ein Spieler doppelt connecten
+allowedFilePatching		= 1;	// Erlaube FilePatching nur für Headless Clients. Könnte auch auf 0 stehen, um es komplett zu deaktivieren. Dies hat aber keine Vorteile
 
 // TIMEOUTS
-maxDesync = 200;			// Maximaler Desync Wert bis der server den spieler kickt
-maxPing = 300;				// Maximaler Ping Wert (in millisekunden) bis der server den spieler kickt
-maxPacketLoss = 10;			// Maximaler Paketverlust Wert bis der server den spieler kickt
+maxDesync = 200;			// Maximaler Desync Wert bis der Server den Spieler kickt
+maxPing = 300;				// Maximaler Ping Wert (in Millisekunden) bis der Server den Spieler kickt
+maxPacketLoss = 10;			// Maximaler Paketverlust Wert bis der Server den Spieler kickt
 kickClientsOnSlowNetwork[] = { 1, 1, 0, 1 }; // Defines if {<MaxPing>, <MaxPacketLoss>, <MaxDesync>, <DisconnectTimeout>} will be logged (0) or kicked (1)
-kickTimeout[] = { {0, 0}, {1, 0}, {2, 0}, {3, 0} }; // Diese werte ändern eine kick in einen temporären ban, das wollen wir nicht also alles 0 sekunden.
+kickTimeout[] = { {0, 0}, {1, 0}, {2, 0}, {3, 0} }; // Diese Werte ändern eine Kick in einen temporären Ban. Das wollen wir nicht, also alles 0 Sekunden
 disconnectTimeout = 7;			// Time to wait before disconnecting a user which temporarly lost connection. Range is 5 to 90 seconds.
 armaUnitsTimeout = 5;
 
 //Chat
-disableVoN = 1;				// Wir benutzen keinen ingame Voice Chat, das erzeugt sowohl netzwerk traffic als auch server last als auch verwirrung bei spielern wenn diese ihr Capslock keybind nicht rausgenommen haben.
+disableVoN = 1;				// Wir benutzen keinen ingame Voice Chat. Das erzeugt sowohl Netzwerk-Traffic, als auch Serverlast und verwirrung bei Spielern, wenn diese ihr Capslock-Keybind nicht rausgenommen haben
 
 disableChannels[] = {{0,false,true}, {1,false,true}, {2,false,true}, {3,false,true}, {4,false,true}, {5,false,true}, {6,false,true}}; // Wir deaktivieren den Chat komplett, aber! wir lassen Voicechat aktiviert. Wenn sowohl Text- als auch Voice-chat deaktiviert sind, kann man die Chat Channel nicht mehr anwählen um zum Beispiel Marker in einem spezifischen Channel zu setzen.
 
 //Network
-steamProtocolMaxDataSize = 8192;	// Das ist das größen-limit der Daten die der Server an den Arma Launcher senden kann. Dieser Wert kann nicht zu hoch sein, aber wenn er zu niedrig ist passt das Modpack nicht in die Daten und im Arma Launcher bekommt man unser volles Modpack nicht angezeigt.
+steamProtocolMaxDataSize = 8192;	// Das ist das Größenlimit der Daten, die der Server an den Arma Launcher senden kann. Dieser Wert kann nicht zu hoch sein, aber wenn er zu niedrig ist, passt das Modpack nicht in die Daten und im Arma Launcher bekommt man unser volles Modpack nicht angezeigt
 
-persistent = 1;				// Mission wird nicht beendet/resetted wenn alle spieler disconnecten
-zeusCompositionScriptLevel = 2;		//Alle scripts für zeus compositions erlauben
+persistent = 1;				// Mission wird nicht beendet/resetted wenn alle Spieler disconnecten
+zeusCompositionScriptLevel = 2;		//Alle Scripts für zeus compositions erlauben
 ```
 {% endcode %}
 
