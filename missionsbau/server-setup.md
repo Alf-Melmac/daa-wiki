@@ -22,8 +22,7 @@ Installation über steamcmd. Unter Linux ist die Syntax äquivalent
 steamcmd.exe +login %STEAMLOGIN% +force_install_dir %A3serverPath% +app_update 233780 -beta profiling -betapassword CautionSpecialProfilingAndTestingBranchArma3 validate +quit
 ```
 
-Durch die Ausführung dieses Befehls wird im angegebenen Ordner die `arma3server_x64` Ausführungsdatei mit dem aktuellen Performance Build ersetzt.
-Es gibt auch die Möglichkeit, die Dateien manuell über das alternative [Google Drive](https://drive.google.com/drive/folders/15p9j7C2nHUt6NoVfChX4YFuqzFXzblJh) Angebot herunterzuladen.
+Durch die Ausführung dieses Befehls wird im angegebenen Ordner die `arma3server_x64` Ausführungsdatei mit dem aktuellen Performance Build ersetzt. Es gibt auch die Möglichkeit, die Dateien manuell über das alternative [Google Drive](https://drive.google.com/drive/folders/15p9j7C2nHUt6NoVfChX4YFuqzFXzblJh) Angebot herunterzuladen.
 
 Die zusätzliche `arma3serverprofiling_x64` Ausführungsdatei enthält mehr Logausgaben für die Auswertung von BI. Diese nur nach Absprache verwenden, da teils ressourcenintensive Berechnungen ausgeführt werden.
 
@@ -34,8 +33,6 @@ Die Standard-Einstellungen werden teils durch die [DAA Mod](https://github.com/d
 #### Server Start Parameter
 
 `-noSound -bandwidthAlg=2 -enableHT -hugePages -limitFPS=200`
-
-``
 
 {% code title="basic.cfg" %}
 ```editorconfig
@@ -68,7 +65,7 @@ class sockets {
 ```
 {% endcode %}
 
-####
+
 
 {% code title="server.cfg" %}
 ```editorconfig
@@ -117,7 +114,7 @@ Für die DAA Streams auf YouTube und Twitch benötigen wir in jeder Mission [zwe
 
 ## Clientseitige Mods
 
-Zusätzlich zu dem Standard  und dem Zusatz der jeweiligen Mission sind folgende clientseitige Modifikationen erlaubt und dem Keycheck hinzuzufügen:
+Zusätzlich zu dem Standard und dem Zusatz der jeweiligen Mission sind folgende clientseitige Modifikationen erlaubt und dem Keycheck hinzuzufügen:
 
 | Mod                    | Workshop-Link                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 | ---------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

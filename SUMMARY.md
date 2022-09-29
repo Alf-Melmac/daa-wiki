@@ -5,6 +5,7 @@
 ## Für den Spieler
 
 * [Modifikationen](fuer-den-spieler/modifikationen.md)
+* [Anmeldung](fuer-den-spieler/anmeldung.md)
 * [Wie gelange ich auf den Server?](fuer-den-spieler/wie-gelange-ich-auf-den-server.md)
 * [Innerhalb der Mission](fuer-den-spieler/innerhalb-der-mission.md)
 
