@@ -8,15 +8,15 @@
 
 ## Modifikationen
 
-Das [Standard Modset](https://www.deutsche-arma-allianz.de/#mods) enthält eine Grundmenge an Mods, die in jeder Mission verwendet werden können. Nicht verwendete Content Mods müssen nicht im Event-Modset enthalten sein. Dies hat nach Analysen der Technikrunde keine Auswirkung auf die Performance der Mission.
+Das [Standard Modset](https://www.deutsche-arma-allianz.de/#mods) enthält eine Grundmenge an Mods, die in jeder Mission verwendet werden können. Auch wenn diese nicht verwendet werden, bleiben sie im Modset der Mission. Dies hat nach Analysen der Technikrunde keine Auswirkung auf Performance und vereinfacht die Bereitstellung des Modsets für Nicht-Launcher-Benutzer.
 
 Auch an dieser Stelle der Hinweis, DAA Missionen sind eigenständig. Sie sind keine hochskalierte Mission einer bestimmten Gruppe. Um den Spielern ein konsistentes möglichst einfaches Spielerlebnis bieten zu können, wollen wir vermeiden für gleiche Aufgaben unterschiedliche Modifikationen zu verwenden. Daher haben wir folgende Entscheidungen getroffen.
 
-| Aufgabe             | Modifikation       | Begründung                                                                                                                                                                |
-| ------------------- | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Sprachkommunikation | TFAR               | Vanilla VoN ist für unseren Anspruch nicht ausreichend. Die meisten Gruppen verwenden TFAR mit guten Erfahrungen. Wir haben erfahrene TFAR Entwickler in unseren Gruppen. |
-| Logistik            | tbd                |                                                                                                                                                                           |
-| Blueforce Tracking  | tbd (cTab vs. ACE) |                                                                                                                                                                           |
+| Aufgabe             | Modifikation | Begründung                                                                                                                                                                |
+| ------------------- | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Sprachkommunikation | TFAR         | Vanilla VoN ist für unseren Anspruch nicht ausreichend. Die meisten Gruppen verwenden TFAR mit guten Erfahrungen. Wir haben erfahrene TFAR Entwickler in unseren Gruppen. |
+| Logistik            | tbd          |                                                                                                                                                                           |
+| Blueforce Tracking  | tbd          |                                                                                                                                                                           |
 
 _Siehe auch_ [daa-mod.md](../entwicklung/daa-mod.md "mention")
 

@@ -25,6 +25,7 @@
 ## Protokolle
 
 * [Vertreterrunde](protokolle/vertreterrunde/README.md)
+  * [2022-09-28](protokolle/vertreterrunde/2022-09-28.md)
   * [2022-03-08](protokolle/vertreterrunde/2022-03-08.md)
   * [2021-11-21](protokolle/vertreterrunde/2021-11-21.md)
   * [2021-10-31](protokolle/vertreterrunde/2021-10-31.md)

@@ -4,7 +4,7 @@
 
 Tote müssen mindestens neu in das Zielgebiet eingebracht werden. **Teleports** sind explizit **nicht erwünscht**.
 
-Eine **One-Life-Regel** darf vom Missionsbauer **nach eigenem Ermessen** benannt werden und wird in der Slotliste/Missionsbeschreibung klar benannt. Davon stets ausgenommen sind Tode durch technische Probleme.
+Eine **One-Life-Regel** darf vom Missionsbauer **nach eigenem Ermessen** benannt werden. Davon stets ausgenommen sind Tode durch technische Probleme.
 
 ## Qualitätssicherung
 

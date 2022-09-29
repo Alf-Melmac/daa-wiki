@@ -6,7 +6,7 @@ Der präferierte Weg des Downloads aller Modifikationen ist über den Arma Launc
 
 Alternative Download-Möglichkeiten werden euch durch eure Vertretung mitgeteilt.
 
-## Clientseitige Mods
+## Optionale Mods
 
 Um das persönliche Spielerlebnis zu erweitern sind die folgenden clientseitigen Mods freigegeben:
 
