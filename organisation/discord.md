@@ -20,7 +20,7 @@ Verfügbare Rollen
 
 ### Frei verfügbar
 
-Alle diese Rollen erhälst du über das reagieren auf [die Nachricht](https://discord.com/channels/874650742089203792/874654256089677884/889212008799543346) unter den discord-regeln
+Alle diese Rollen erhälst du über das reagieren auf [die Nachricht](https://discord.com/channels/874650742089203792/874654256089677884/889212008799543346) unter :blue\_book:`discord-regeln`
 
 | Rolle       | Zweck                                                                                |
 | ----------- | ------------------------------------------------------------------------------------ |

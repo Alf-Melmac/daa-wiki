@@ -33,7 +33,7 @@ Gruppe Adler (Reacher, XDrake, Eras), KeKo (C4ll\_me\_Nomad), NTF (Nitro Nic, Pa
 3. Slotliste
    1. Wir starten mit einem Google Docs Formular.
    2. Gerne dürfen Templates zur Orientierung oder gemeinsamen Verwendung geteilt werden.
-   3. Die Slotliste... ![](../../.gitbook/assets/20210905-protokoll-slotliste.png)
+   3. Die Slotliste... <img src="../../.gitbook/assets/20210905-protokoll-slotliste.png" alt="" data-size="original">
 4. Varianz
    1. Durch die vielen verschiedenen Missionsbauer kommt Varianz von ganz selbst.
    2. Es ist keine feste Regelung zur Menge und Verwendung von DLC-Pflichten von Nöten.
