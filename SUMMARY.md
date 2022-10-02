@@ -30,7 +30,7 @@
   * [2021-11-21](protokolle/vertreterrunde/2021-11-21.md)
   * [2021-10-31](protokolle/vertreterrunde/2021-10-31.md)
   * [2021-09-05 Detailklärung 1](protokolle/vertreterrunde/2021-09-05-detailklaerung-1.md)
-  * [2021-08-13 Voice Mod Umfrage](protokolle/vertreterrunde/2021-08-13-voice-mod-umfrage.md)
+  * [2021-08-13 Ergebnis Initiale Umfrage](protokolle/vertreterrunde/2021-08-13-ergebnis-initiale-umfrage.md)
   * [2021-08-13 Schnupperrunde](protokolle/vertreterrunde/2021-08-13-schnupperrunde.md)
 * [Modset-/Technikrunde](protokolle/modset-technikrunde/README.md)
   * [2021-09-26 Modrunde](protokolle/modset-technikrunde/2021-09-26-modrunde.md)
