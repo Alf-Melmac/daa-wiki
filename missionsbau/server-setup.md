@@ -102,7 +102,7 @@ zeusCompositionScriptLevel = 2;		//Alle Scripts für zeus compositions erlauben
 
 ## Streamator
 
-Für die DAA Streams auf YouTube und Twitch benötigen wir in jeder Mission [zwei virtuelle Zuschauerplätze](https://wiki.tacticalteam.de/de/TTT-QM/Skriptsammlung#streamator). Auf dem Server muss CLib und [Streamator](https://github.com/TaktiCool/Streamator) installiert sein.
+Für die DAA Streams auf YouTube und Twitch benötigen wir in jeder Mission [zwei virtuelle Zuschauerplätze](https://wiki.tacticalteam.de/Missionsbau/Skriptsammlung#streamator). Auf dem Server muss CLib und [Streamator](https://github.com/TaktiCool/Streamator) installiert sein.
 
 {% file src="../.gitbook/assets/CLib.zip" %}
 [https://github.com/TaktiCool/CLib](https://github.com/TaktiCool/CLib)
