@@ -28,7 +28,7 @@ Die zusätzliche `arma3serverprofiling_x64` Ausführungsdatei enthält mehr Loga
 
 ## Konfiguration
 
-Die Standard-Einstellungen werden teils durch die [DAA Mod](https://github.com/dedmen/DAAMod/blob/main/settings/cbasettings.sqf) (z.B. Schwierigkeit) gesetzt, andererseits durch die unsere [Standard-Konfigurationen](https://www.deutsche-arma-allianz.de/cloud/index.php/s/jf8M1Sgrk2eQ0vW?path=%2FSettings).
+Die Standard-Einstellungen werden teils durch die [DAA Mod](https://github.com/dedmen/DAA\_Mod/blob/main/settings/cba\_settings.sqf) (z.B. Schwierigkeit) gesetzt, andererseits durch die unsere [Standard-Konfigurationen](https://www.deutsche-arma-allianz.de/cloud/index.php/s/jf8M1Sgrk2eQ0vW?path=%2FSettings).
 
 #### Server Start Parameter
 
